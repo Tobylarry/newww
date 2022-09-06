@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b787966f.css",
+    "main.js": "/static/js/main.d26eb043.js",
+    "static/media/image1.jpg": "/static/media/image1.931eff688e737b9e4d8d.jpg",
+    "static/media/Jacob.jpg": "/static/media/Jacob.6e29ace6ae386812e28b.jpg",
+    "static/media/third.png": "/static/media/third.ea6593a06ab99f0ac0d9.png",
+    "static/media/normal.png": "/static/media/normal.9c03b6e8a155cbe91070.png",
+    "static/media/graduate.jpg": "/static/media/graduate.46c7eb9f5e5dc595a5ba.jpg",
+    "static/media/employprep.JPG": "/static/media/employprep.d38d04ccc7b54d5725f0.JPG",
+    "static/media/vocation.JPG": "/static/media/vocation.38b7699373a5e0973635.JPG",
+    "static/media/mobility.JPG": "/static/media/mobility.1719fbebc6aa202122cc.JPG",
+    "static/media/sticky.jpg": "/static/media/sticky.408b46ec0244e728c6b7.jpg",
+    "static/media/chat.svg": "/static/media/chat.9703ed31ae6333fe29e497546854111a.svg",
+    "static/media/pathway.JPG": "/static/media/pathway.f0ad8a57dd94f9dab93e.JPG",
+    "index.html": "/index.html",
+    "main.b787966f.css.map": "/static/css/main.b787966f.css.map",
+    "main.d26eb043.js.map": "/static/js/main.d26eb043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b787966f.css",
+    "static/js/main.d26eb043.js"
+  ]
+}
